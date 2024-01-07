@@ -19,3 +19,7 @@ En cuanto html y php podemos usar formularios en los cuales recivimos y enviamos
   - Select (combo)
   - Radio Buttons
   - Checkboxes
+ 
+## CAPITULO 2 ##
+### Uso de require() e include()
+Bueno el include se sigue ejecuanto aunque marque un error a diferencia del require que cuando marca error se detiene lo que va ejecutar. El require se utiliza cuando sea necesario esa parte de codigo para el desarrollo del proyecto mientras que include se sigue ejecuando aunque haya errores. 
